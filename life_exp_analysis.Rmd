@@ -20,6 +20,8 @@ library(gapminder)
 
 Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 
+THis is summarizing the data to be clean
+
 # Life Expectency Analysis
 ```{r}
 data("gapminder_unfiltered")
