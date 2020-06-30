@@ -48,6 +48,7 @@ sumdat %>%
   scale_color_discrete((name = "Country"))
 ```
 
-THis is a new line of comments in our text
+THis is a new line of comments in our text plus this as well
+
 
 
